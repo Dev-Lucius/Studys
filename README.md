@@ -96,18 +96,19 @@ Este repositório é atualizado continuamente como parte da minha formação té
 
 ## 📂 Estrutura do Repositório
 
+```
 📦 estudos-programacao
-├── 📂 algoritmos
-├── 📂 estruturas-de-dados
-├── 📂 java
-├── 📂 python
-├── 📂 web
-├── 📂 bancos-de-dados
-├── 📂 arquitetura-de-software
-└── README.md
+  ├── 📂 algoritmos
+  ├── 📂 estruturas-de-dados
+  ├── 📂 java
+  ├── 📂 python
+  ├── 📂 web
+  ├── 📂 bancos-de-dados
+  ├── 📂 arquitetura-de-software
+  └── README.md
+```
 
 ---
-
 
 Cada diretório contém:
 
