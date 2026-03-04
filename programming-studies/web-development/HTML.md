@@ -1,4 +1,3 @@
-a web
 # HTML & CSS — Guia melhorado
 
 Este documento é uma apostila compacta sobre HTML (com notas sobre CSS e JavaScript). Corrigi erros, removi duplicações e adicionei um Índice para facilitar a leitura e os estudos.
